@@ -1,0 +1,105 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstname": "heroyuuuuu",
+      "lastname": "user",
+      "email": "hero@gmail.com",
+      "dob": "",
+      "gender": "male",
+      "education": "post graduate",
+      "company": "fake",
+      "experience": 4,
+      "package": 12,
+      "id": 2
+    },
+    {
+      "firstname": "nishant",
+      "lastname": "gaikwad",
+      "email": "nishu@gmail.com",
+      "dob": "2023-12-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "post graduate",
+      "company": "goggle",
+      "experience": 5,
+      "package": 23,
+      "id": 3
+    },
+    {
+      "firstname": "heroin",
+      "lastname": "user",
+      "email": "hero@gmail.com",
+      "dob": "",
+      "gender": "male",
+      "education": "post graduate",
+      "company": "fake",
+      "experience": 4,
+      "package": 12,
+      "id": 6
+    },
+    {
+      "firstname": "vishal",
+      "lastname": "pratap",
+      "email": "vishal@gmail.com",
+      "dob": "2023-12-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "matrix",
+      "company": "new company",
+      "experience": 12,
+      "package": 5,
+      "id": 7
+    },
+    {
+      "firstname": "sfefrd",
+      "lastname": "sczs",
+      "email": "test@gmail.com",
+      "dob": "0221-12-31T18:06:32.000Z",
+      "gender": "male",
+      "education": "post graduate",
+      "company": "new",
+      "experience": 5,
+      "package": 2,
+      "id": 8
+    },
+    {
+      "firstname": "cxfvfxvf",
+      "lastname": "dvfdzv",
+      "email": "dfdxvd",
+      "dob": "2023-12-10T18:30:00.000Z",
+      "gender": "male",
+      "education": "post graduate",
+      "company": "sdefd",
+      "experience": 12,
+      "package": 12,
+      "id": 9
+    },
+    {
+      "firstname": "test ",
+      "lastname": "test ",
+      "email": "test@gmail;.com",
+      "dob": "2023-12-05T18:30:00.000Z",
+      "gender": "male",
+      "education": "graduate",
+      "company": "goggle",
+      "experience": 4,
+      "package": 12,
+      "id": 10
+    }
+  ]
+}
